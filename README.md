@@ -1,5 +1,5 @@
 # chess-variant-race
-Final project for CS162. A variant of chess where black and white king are racing to the opposite side of the board.
+Final project for CS162. A variant of chess where the black king and white king are racing to the opposite side of the board.
 
 **Remember that this project cannot be submitted late.**
 
